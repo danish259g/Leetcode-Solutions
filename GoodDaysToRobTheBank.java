@@ -1,3 +1,8 @@
+/*
+Problem - 2100 Find Good Days To Rob the Bank
+Link - https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/
+*/
+
 class Solution {
     public List<Integer> goodDaysToRobBank(int[] security, int time) {
         // store length of non-increase seq leading to i-th element
