@@ -1,6 +1,6 @@
 """
 Problem - 128 Longest Consecutive Sequence
-Link - https://leetcode.com/problems/longest-consecutive-sequence/description/
+Link - https://leetcode.com/problems/longest-consecutive-sequence/
 """
 
 class Solution(object):

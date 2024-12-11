@@ -1,6 +1,6 @@
 """
 Problem - 209 Minimum Size Subarray Sum
-Link - https://leetcode.com/problems/minimum-size-subarray-sum/description/
+Link - https://leetcode.com/problems/minimum-size-subarray-sum/
 """
 
 

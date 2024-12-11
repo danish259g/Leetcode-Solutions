@@ -1,6 +1,6 @@
 """
 Problem 15 - 3Sum
-Link - https://leetcode.com/problems/3sum/description/
+Link - https://leetcode.com/problems/3sum/
 """
 
 class Solution(object):

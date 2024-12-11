@@ -1,6 +1,6 @@
 /*
 Problem - 2100 Find Good Days To Rob the Bank
-Link - https://leetcode.com/problems/find-good-days-to-rob-the-bank/description/
+Link - https://leetcode.com/problems/find-good-days-to-rob-the-bank/
 */
 
 class Solution {
